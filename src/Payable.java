@@ -1,3 +1,0 @@
-interface Payable {
-    double getPaymentAmount();
-}
